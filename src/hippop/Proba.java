@@ -1,6 +1,6 @@
 package hippop;
 
-import java.io.*;
+import java.io.File;
 public class Proba
 {
    public static void main (String[] args)throws Exception
