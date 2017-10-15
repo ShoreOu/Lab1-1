@@ -3,7 +3,7 @@ package hippop;
 import java.io.File;
 public class Proba
 {
-   public static void main(String[] args)
+   public static void main (String[] args)throws Exception
    {
       Proba p = new Proba();
       p.start();
