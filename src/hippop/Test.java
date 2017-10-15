@@ -18,7 +18,7 @@ public class Test {
 		g.randomWalk();
 		sc.close();
 	}
-	public static void showDirectedGraph(String [] s)throws Exception{
+	public static void showDirectedGraph(String [] s){
 		GraphViz gv = new GraphViz();	   
 		 gv.addln(gv.start_graph());
 	     for(int i=0;i<s.length-1;i++){
