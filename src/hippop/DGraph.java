@@ -8,6 +8,7 @@ public class DGraph {
 
 	int max=1001;
 	int a;
+	int b;
 	int n,e;
 	int G[][];
 	List<String> list;
