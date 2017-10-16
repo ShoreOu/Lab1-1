@@ -33,8 +33,8 @@ import java.io.*;
  * can specify the type of the output file: gif, dot, fig, pdf, ps, svg, png, etc.
  * @version v0.3, 2010/11/29 (November) -- Windows support + ability 
  * to read the graph from a text file
- * @version v0.2, 2010/07/22 (July) -- bug fix
- * @version v0.1, 2003/12/04 (December) -- first release
+ * @version v0.2, 2010/07/22 (July) -- bug fix 
+ * @version v0.1, 2013/12/04 (December) -- first release
  * @author  Laszlo Szathmary (<a href="jabba.laci@gmail.com">jabba.laci@gmail.com</a>)
  */
 public class GraphViz

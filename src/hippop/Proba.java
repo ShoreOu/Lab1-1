@@ -45,7 +45,7 @@ public class Proba
  //     String dir = "/home/jabba/eclipse2/laszlo.sajat/graphviz-java-api";     // Linux
  //     String input = dir + "/sample/simple.dot";
     String input = "c:/eclipse.ws/graphviz-java-api/sample/simple.dot";    // Windows
-    
+    int z=0;
     GraphViz gv = new GraphViz();
     gv.readSource(input);
     System.out.println(gv.getDotSource());
