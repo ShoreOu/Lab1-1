@@ -6,6 +6,7 @@ public class Test {
 	public static void main(String[] args) throws Exception{  
 		String[] s=readFileByChars("C:/Users/Administrator/Desktop/test.txt","C:/Users/Administrator/Desktop/test1.txt");
 		DGraph g=new DGraph(s);
+		int c;
 		showDirectedGraph(s);
 		g.queryBridgeWords();
 		String[] n=readnew("C:/Users/Administrator/Desktop/new.txt");

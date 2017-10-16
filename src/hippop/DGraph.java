@@ -6,6 +6,7 @@ import java.util.*;
 
 public class DGraph {
 	int max=1001;
+	int a;
 	int n,e;
 	int G[][];
 	List<String> list;

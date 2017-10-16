@@ -8,6 +8,7 @@ public class Proba
       Proba p = new Proba();
       p.start();
 //      p.start2();
+	int b;
    }
 
 /**
