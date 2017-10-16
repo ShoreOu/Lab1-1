@@ -15,6 +15,7 @@ public class Test {
 		String a=sc.next(); 
 		String b=sc.next();
 		g.calcShortestPath(a,b);
+		int a=2;
 		g.randomWalk();
 		sc.close();
 	}

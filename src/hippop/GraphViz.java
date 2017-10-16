@@ -86,6 +86,7 @@ public class GraphViz
     */
    public void addln() {
       graph.append('\n');
+      int a=0;
    }
 
 /**
