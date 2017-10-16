@@ -5,11 +5,7 @@ import java.io.Writer;
 import java.util.*;
 
 public class DGraph {
-<<<<<<< HEAD
 	int max=999;
-=======
-	int max=999;
->>>>>>> c4
 	int n,e;
 	int G[][];
 	List<String> list;
