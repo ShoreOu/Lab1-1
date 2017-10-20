@@ -5,7 +5,7 @@ import java.io.Writer;
 import java.util.*;
 
 public class DGraph {
-	int max=1001;
+	int max=1001;//最大值
 	int n,e;
 	int G[][];
 	List<String> list;
