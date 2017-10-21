@@ -3,6 +3,7 @@ import java.io.*;
 import java.util.*;
 
 public class Test {
+    //第一次修改
 	public static void main(String[] args) throws Exception{  
 		String[] s=readFileByChars("C:/Users/Administrator/Desktop/test.txt","C:/Users/Administrator/Desktop/test1.txt");
 		DGraph g=new DGraph(s);
